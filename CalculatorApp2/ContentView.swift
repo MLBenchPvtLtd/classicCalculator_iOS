@@ -442,7 +442,7 @@ extension ContentView {
         if cell == "0" {
             return ((screenWidth - (4 * spacing)) / 4) * 2
         } else {
-            return (screenWidth - (5 * spacing)) / 4.4
+            return (screenWidth - (5 * spacing)) / 4.4 
         }
     }
     
